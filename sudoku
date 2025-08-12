@@ -1,0 +1,30 @@
+# 🧩 Sudoku Game (C++)
+
+## 📖 Overview
+This is a **console-based Sudoku puzzle game** developed in C++.  
+Players can solve puzzles, validate moves, and request hints when stuck.  
+The project focuses on clean structure, clear code, and logical game flow.
+
+---
+
+## ✨ Features
+- **Puzzle Generation** – Creates solvable Sudoku boards.
+- **Difficulty Levels** – Easy, Medium, Hard.
+- **Input Validation** – Prevents invalid entries.
+- **Puzzle Solver** – Uses a backtracking algorithm to check or solve puzzles.
+- **Hint System** – Suggests correct moves.
+- **Save & Load Game** – Continue from where you left off.
+- **Cross-Platform** – Runs on Windows, Linux, and macOS.
+
+---
+
+## 🛠 Tech Stack
+- **Language:** C++
+- **Paradigm:** Procedural & Object-Oriented
+- **Algorithms:** Backtracking
+- **Libraries:** Standard Template Library (STL)
+- **Build Tool:** CMake
+
+---
+
+## 📂 Folder Structure
