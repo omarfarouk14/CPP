@@ -1,0 +1,31 @@
+# ✈️ Airline Reservation and Management System
+
+## 📖 Overview
+The **Airline Reservation and Management System** is a modern C++ application that provides an efficient and user-friendly way to manage airline operations.  
+It covers the full reservation lifecycle — from flight creation and seat booking to passenger management and reporting — with a focus on **clean architecture**, **data integrity**, and **scalability**.
+
+This project is implemented using **Modern C++ (C++17/C++20)**, following **Object-Oriented Programming (OOP)** principles and best practices for maintainable, high-performance software.
+
+---
+
+## ✨ Key Features
+- **Secure User Authentication** – Passenger and admin login with role-based access.
+- **Flight Search & Filtering** – Search by date, departure, destination, and price range.
+- **Ticket Reservation** – Book, modify, and cancel reservations with instant seat availability updates.
+- **Passenger Management** – Store and manage passenger information.
+- **Admin Dashboard** – Add, update, and remove flights and schedules.
+- **Data Persistence** – Save and load data using local storage or database backends.
+- **Exception Handling** – Robust error detection and safe recovery.
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** C++17 / C++20
+- **Paradigm:** Object-Oriented Programming (OOP)
+- **Libraries:** STL (`vector`, `map`, `unordered_map`, `chrono`, etc.)
+- **Build System:** CMake
+- **OS Compatibility:** Windows, Linux, macOS
+
+---
+
+## 📂 Project Structure
