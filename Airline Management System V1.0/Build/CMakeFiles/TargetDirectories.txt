@@ -1,0 +1,3 @@
+/home/newir529/SOFTWARE_DEVELPMENT/Modern CPP/Projects/Airline Management System V1.0/Build/CMakeFiles/Output.dir
+/home/newir529/SOFTWARE_DEVELPMENT/Modern CPP/Projects/Airline Management System V1.0/Build/CMakeFiles/edit_cache.dir
+/home/newir529/SOFTWARE_DEVELPMENT/Modern CPP/Projects/Airline Management System V1.0/Build/CMakeFiles/rebuild_cache.dir
